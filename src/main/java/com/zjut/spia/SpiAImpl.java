@@ -6,6 +6,6 @@ public class SpiAImpl implements SpiModelInterface {
 
     @Override
     public void helloSpi() {
-        System.out.println("A======= say hello");
+        System.out.println("A======== say hello");
     }
 }
